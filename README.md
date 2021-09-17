@@ -1,6 +1,6 @@
 # Mackeeb
 2% macropad mechanical keyboard designed around macintosh keycaps  
-![Finished project](https://imgur.com/a/Uj5SjoH)
+<img src="https://i.imgur.com/ODdH7oO.jpeg" width="1000">
 
 ## Usage
 When you plug it in, the Mackeeb will run its main mode.
